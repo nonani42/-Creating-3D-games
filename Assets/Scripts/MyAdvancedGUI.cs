@@ -9,7 +9,7 @@ public class MyAdvancedGUI : MonoBehaviour
     [SerializeField][TextArea(5,10)]
     private string my2Slider;
     [SerializeField]
-    private int my3Slider = 1;
+    //private int my3Slider = 1;
 
     public Color myColor;         // Градиент цвета
     public MeshRenderer GO;      // Ссылка на рендер объекта
